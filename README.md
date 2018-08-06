@@ -21,4 +21,5 @@ Run `fileparser --help` for further details
 
 ## TODO
 
+- Add tests
 - better feedback in the different cases
