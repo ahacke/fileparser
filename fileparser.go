@@ -1,8 +1,5 @@
 package main
 
-//TODO:
-// better feedback in the different cases
-
 import (
 	"bufio"
 	"flag"
